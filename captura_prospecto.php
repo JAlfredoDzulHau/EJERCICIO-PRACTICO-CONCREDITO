@@ -16,31 +16,31 @@
           <form class="row g-3" id="insert-form"action="insertar.php" method="POST">
               <div class="col-md-4">
                 <label for="nombre" class="form-label">Nombre del prospecto:</label>
-                <input type="text" name="nombre" class="form-control" tabindex="1" autofocus autocomplete="off">
+                <input type="text" name="nombre" class="form-control" tabindex="1" autofocus autocomplete="off" required>
               </div>
               <div class="col-md-4">
                 <label for="apellido_pat" class="form-label">Primer apellido:</label>
-                <input type="text" name="apellido_pat" class="form-control" tabindex="1" autofocus autocomplete="off">
+                <input type="text" name="apellido_pat" class="form-control" tabindex="1" autofocus autocomplete="off" required>
               </div>
               <div class="col-md-4">
                 <label for="apellido_pat" class="form-label">Segundo apellido:</label>
                 <input type="text" name="apellido_mat" class="form-control" tabindex="1" autofocus autocomplete="off">
               </div>
-              <div class="col-3">
+              <div class="col-md-3">
                 <label for="inputAddress" class="form-label">Calle:</label>
-                <input type="text" name="calle" class="form-control" tabindex="1" autofocus  autocomplete="off">
-              </div>
-              <div class="col-3">
-                <label for="inputAddress2" class="form-label">Número:</label>
-                <input type="text" name="numero" class="form-control"  tabindex="1" autofocus autocomplete="off">
+                <input type="text" name="calle" class="form-control" tabindex="1" autofocus  autocomplete="off" required>
               </div>
               <div class="col-md-3">
-                <label for="inputCity"  class="form-label">Colonia:</label autocomplete="off">
+                <label for="inputAddress2" class="form-label">Número:</label>
+                <input type="text" name="numero" class="form-control"  tabindex="1" autofocus autocomplete="off" required>
+              </div>
+              <div class="col-md-3">
+                <label for="inputCity"  class="form-label">Colonia:</label autocomplete="off" required>
                 <input type="text"name="colonia" class="form-control" tabindex="1" autofocus>
               </div>
               <div class="col-md-3">
                 <label for="inputCity" class="form-label">Código Postal:</label>
-                <input type="text" name="cod_postal" class="form-control" tabindex="1" autofocus autocomplete="off">
+                <input type="text" name="cod_postal" class="form-control" tabindex="1" autofocus autocomplete="off" required>
               </div>
               <div class="col-md-6">
                 <label for="inputCity" class="form-label">Teléfono:</label>
@@ -48,7 +48,7 @@
               </div>
               <div class="col-md-6">
                 <label for="inputCity" class="form-label">RFC:</label>
-                <input type="text" name="rfc" class="form-control" tabindex="1" autofocus  autocomplete="off">
+                <input type="text" name="rfc" class="form-control" tabindex="1" autofocus  autocomplete="off" required>
               </div>
               <BR></BR>
               <P>Documentos:</P>
@@ -73,11 +73,11 @@
               </div>
               <div class="col-md-6">
                 <label>Nombre del Documento:</label><br>
-                <input type="text" name="nom_doc[]" class="form-control">
+                <input type="text" name="nom_doc[]" class="form-control" required>
               </div>
               <div class="col-md-6">
                 <label>Documento:</label><br>
-                <input type="file" name="documento[]" class="form-control-file" id="formFileMultiple" multiple>
+                <input type="file" required name="documento[]" class="form-control-file" id="formFileMultiple" multiple >
               </div>
              
 
