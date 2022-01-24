@@ -14,7 +14,7 @@
 
   <title>CONCRÉDITO</title>
 </head>
- 
+ <!--Agregamos un navbar-->
 <body>
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark border-3 border-botton border-primary">
     <div class="container-fluid">
