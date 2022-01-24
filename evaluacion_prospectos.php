@@ -18,6 +18,7 @@
                     </tr>
                 </thead>
                 <tbody>
+                <!-- Incrustamos código php para obtener los datos de la base de datos y plasmarlo en la tabla-->    
                     <?php
                     include('config/conexion.php');
                     $sql="SELECT * FROM clientes";
