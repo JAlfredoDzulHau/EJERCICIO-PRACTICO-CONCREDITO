@@ -1,4 +1,5 @@
-# Sistemas Web para el Seguimiento de Prospectos a Ser Clientes  ![Status badge](https://img.shields.io/badge/status-%20terminado-green)
+# Sistemas Web para el Seguimiento de Prospectos a Ser Clientes  ![Status badge](https://img.shields.io/badge/status-%20terminado-green) 
+
 ## Comenzando 🚀
 ✨ Sistema web que permita a los promotores el seguimiento de sus prospectos a ser
 clientes, así como una pantalla para el departamento de evaluación de prospectos donde se pueda
