@@ -58,7 +58,7 @@ documentos necesarios para su expediente._
 <BR></BR>
 ![image](https://user-images.githubusercontent.com/70233261/150873365-6b415d34-9bb5-4d28-bb44-3c0741592d0c.png)
 <BR></BR>
-_A continuación, vamos a realizar la captura de un nuevo prospecto para que se aprecie la funcionalidad de sistema web☑️_
+_A continuación, vamos a realizar la captura de un nuevo prospecto para apreciar la funcionalidad del sistema web☑️_
 <BR></BR>
 ![image](https://user-images.githubusercontent.com/70233261/150287892-9bcbec71-a67f-4369-9e78-22eeaa1de35b.png)
 <BR></BR>
