@@ -16,7 +16,7 @@ visualizar la información del prospecto, donde le permita la autorización o re
 
 ### Instalación 🔧
 1. Clona este proyecto.
-2. Ve a la carpeta Xampp/htdocs
+2. Ve a la carpeta
 `C:\xampp\htdocs`
 <BR></BR>
 ![image](https://user-images.githubusercontent.com/70233261/150866937-076b7e37-6119-4c45-b9fc-0e642ded9d55.png)
@@ -26,7 +26,7 @@ visualizar la información del prospecto, donde le permita la autorización o re
 <BR></BR>
 ![image](https://user-images.githubusercontent.com/70233261/150867061-28147b34-ed92-44d6-b627-70afd09bc6fc.png)
 
-4. Crear base de datos en MYSQL llamado "concredito"
+4. Crear base de datos en ``phpmyadmin`` llamado "concredito"
 <BR></BR>
 ![screencapture-localhost-phpmyadmin-index-php-2022-01-24-15_24_41](https://user-images.githubusercontent.com/70233261/150868665-6b386e2a-b593-4aaa-8748-b86063177207.png)
 
