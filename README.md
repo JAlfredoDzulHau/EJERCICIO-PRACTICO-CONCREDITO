@@ -62,7 +62,7 @@ _A continuación, vamos a realizar la captura de un nuevo prospecto para aprecia
 <BR></BR>
 ![image](https://user-images.githubusercontent.com/70233261/150287892-9bcbec71-a67f-4369-9e78-22eeaa1de35b.png)
 <BR></BR>
-_Una vez captura el prospecto comprobamos que se haya guardo en tabla llamado "clientes"☑️_
+_Una vez captura el prospecto comprobamos que se haya guardo en la tabla llamado "clientes"☑️_
 <BR></BR>
 ![image](https://user-images.githubusercontent.com/70233261/150288206-46ac17e0-f55a-4640-9635-a9e73742a541.png)
 <BR></BR>
