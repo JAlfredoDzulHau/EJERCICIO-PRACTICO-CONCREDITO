@@ -72,7 +72,7 @@ captura._
 <BR></BR>
 ![image](https://user-images.githubusercontent.com/70233261/150875126-d8cb8bc6-9c76-47af-9610-e2cef95ac45e.png)
 <BR></BR>
-_Al darle ``Aceptar`` nos se guardan los datos en la base de datos y se redirecciona a Home._
+_Al darle ``Aceptar`` no se guardan los datos en la base de datos y nos redirecciona a Home._
 <BR></BR>
 ``PANTALLA LISTADO DE PROSPECTOS``
 <BR></BR>
