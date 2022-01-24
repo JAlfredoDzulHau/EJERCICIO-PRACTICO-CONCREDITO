@@ -6,7 +6,7 @@
       <h1 class="display-4">Captura de Prospecto</h1>
     </div>
 
-
+<!--Formulario para la captura de datos del prospecto-->
     <div class="card text-dark bg-light mb-3">
         <div class="card-header">
           Nuevo Registro
