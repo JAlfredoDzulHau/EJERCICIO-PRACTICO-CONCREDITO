@@ -41,6 +41,56 @@ visualizar la información del prospecto, donde le permita la autorización o re
 
 10. Corre el ambiente local, ingresando en tu navegador de preferencia y teclear
 `http://localhost/CONCREDITO/`
+## 🛠 Despliegue
+1. Una vez instalado todo lo anterior, podemos ver nuestro proyecto funcionando
+<BR></BR>
+``MÓDULO HOME``
+<BR></BR>
+_Este apartado solo muestra información de Bienvenida, y todo lo relacionado con la empresa CONCRÉDITO._
+<BR></BR>
+![image](https://user-images.githubusercontent.com/70233261/150872525-32bed362-43ca-4947-b2f1-a7ca11310eee.png)
 
+<BR></BR>
+``PANTALLA DE CAPTURA DE PROSPECTO``
+<BR></BR>
+_En este módulo el promotor podrá capturar la información del prospecto, así como los
+documentos necesarios para su expediente._
+<BR></BR>
+![image](https://user-images.githubusercontent.com/70233261/150873365-6b415d34-9bb5-4d28-bb44-3c0741592d0c.png)
+<BR></BR>
+_A continuación, vamos a realizar la captura de un nuevo prospecto para que se aprecie la funcionalidad de sistema web☑️_
+<BR></BR>
+![image](https://user-images.githubusercontent.com/70233261/150287892-9bcbec71-a67f-4369-9e78-22eeaa1de35b.png)
+<BR></BR>
+_Una vez captura el prospecto comprobamos que se haya guardo en tabla llamado "clientes"☑️_
+<BR></BR>
+![image](https://user-images.githubusercontent.com/70233261/150288206-46ac17e0-f55a-4640-9635-a9e73742a541.png)
+<BR></BR>
+_``Opción Salir:`` Saldrá de la pantalla de captura de prospectos ningún dato será guardado, se
+le avisará al usuario por medio de un mensaje de advertencia que si sale perderá toda la
+captura._
+<BR></BR>
+![image](https://user-images.githubusercontent.com/70233261/150875126-d8cb8bc6-9c76-47af-9610-e2cef95ac45e.png)
+<BR></BR>
+_Al darle ``Aceptar`` nos se guardan los datos en la base de datos y se redirecciona a Home._
+<BR></BR>
+``PANTALLA DE LISTADO DE PROSPECTOS``
+<BR></BR>
+_En este módulo el promotor podrá visualizar a sus prospectos capturados, la información a
+mostrar será:_ 
 
-
+1. Nombre del prospecto 
+2. Primero apellido 
+3. Segundo apellido  
+4. Estatus.
+<BR></BR>
+![image](https://user-images.githubusercontent.com/70233261/150288435-40defe2a-1a08-4f48-a045-f9cf1e121238.png)
+<BR></BR>
+_Seleccionamos en ``VER`` a unos de los prospectos de la tabla para observar más a detalle sus datos:_
+<BR></BR>
+![image](https://user-images.githubusercontent.com/70233261/150288730-e14e1bf1-ca80-437f-8de6-c3c11dac4d26.png)
+<BR></BR>
+_Seguidamente seleccionamos a un prospecto con un estatus ``RECHAZADO`` para observa la diferencia entre estatus._
+<BR></BR>
+![image](https://user-images.githubusercontent.com/70233261/150288922-675ff9a6-caf3-4f15-be7e-4e244dac0c0b.png)
+<BR></BR>
