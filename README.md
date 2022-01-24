@@ -51,7 +51,7 @@ _Este apartado solo muestra información de Bienvenida, y todo lo relacionado co
 ![image](https://user-images.githubusercontent.com/70233261/150872525-32bed362-43ca-4947-b2f1-a7ca11310eee.png)
 
 <BR></BR>
-``PANTALLA DE CAPTURA DE PROSPECTO``
+``PANTALLA CAPTURA DE PROSPECTO``
 <BR></BR>
 _En este módulo el promotor podrá capturar la información del prospecto, así como los
 documentos necesarios para su expediente._
@@ -74,7 +74,7 @@ captura._
 <BR></BR>
 _Al darle ``Aceptar`` nos se guardan los datos en la base de datos y se redirecciona a Home._
 <BR></BR>
-``PANTALLA DE LISTADO DE PROSPECTOS``
+``PANTALLA LISTADO DE PROSPECTOS``
 <BR></BR>
 _En este módulo el promotor podrá visualizar a sus prospectos capturados, la información a
 mostrar será:_ 
@@ -94,3 +94,38 @@ _Seguidamente seleccionamos a un prospecto con un estatus ``RECHAZADO`` para obs
 <BR></BR>
 ![image](https://user-images.githubusercontent.com/70233261/150288922-675ff9a6-caf3-4f15-be7e-4e244dac0c0b.png)
 <BR></BR>
+``PANTALLA EVALUACIÓN DEL PROSPECTO``
+<BR></BR>
+_En esta pantalla se podrá visualizar toda la información capturada del prospecto y la opción
+``Autorizar`` o ``Rechazar``, así como un campo de observaciones de rechazo que será obligatorio._
+<BR></BR>
+![image](https://user-images.githubusercontent.com/70233261/150289189-532e88ff-533e-4177-a81b-5ba7c2099f8f.png)
+<BR></BR>
+_Elijamos la acción de ``EDITAR``_
+<BR></BR>
+![image](https://user-images.githubusercontent.com/70233261/150289318-70c01eb1-0a86-48df-8f8a-1ff1c38b8d01.png)
+<BR></BR>
+_Ahora bien, vamos a modificar el estatus de unos de los prospectos lo pasaremos al estatus RECHAZADO y le agregaremos su observación_
+<BR></BR>
+![image](https://user-images.githubusercontent.com/70233261/150289680-7ad0ff22-547a-42f2-b7e4-6c7861aa6165.png)
+<BR></BR>
+_Observamos los cambios en la tabla de evaluación de prospectos._
+<BR></BR>
+![image](https://user-images.githubusercontent.com/70233261/150289808-81839934-348d-47a2-a804-fcf0aa4ef3ca.png)
+<BR></BR>
+_Nos aseguramos de que se hayan actualizado el registro en la base de datos, así que nos dirigimos a consultarlo:_
+<BR></BR>
+![image](https://user-images.githubusercontent.com/70233261/150289970-6c8ce6ca-6dd4-4cbd-b29d-7d1fe1e80c41.png)
+
+## Licencia 📄
+
+Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+
+## Autores ✒️
+
+_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
+
+* **Jose Alfredo Dzul Hau** - *Trabajo Inicial*
+* **Jose Alfredo Dzul Hau** - *Documentación*
+---
+⌨️ con ❤️ por [JAlfredoDzulHau](https://github.com/JAlfredoDzulHau) 😊
